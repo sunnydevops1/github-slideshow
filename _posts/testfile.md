@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-yeh chal kya raha hai bc
+Steps to perform
 Use the up arrow to go back!
